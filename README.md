@@ -19,6 +19,7 @@ A simple Netflix clone built using **HTML** and **CSS** to replicate the user in
 
 
 ## 🎬 How to Use  
+-->use this link for access :https://netflix-clone-pcye9671e-shreys-projects-404d8f20.vercel.app/
 1. Clone this repository:  
    `git clone https://github.com/yourusername/netflix-clone.git`  
 2. Open `index.html` in your browser.  
